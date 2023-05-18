@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/deepthi/Folders/College/8th Sem/project/user portal/find_green_server/log/.80172d99bcfedeebd52316692176773b6fd866c5-audit.json",
+    "files": [
+        {
+            "date": 1684410775250,
+            "name": "/Users/deepthi/Folders/College/8th Sem/project/user portal/find_green_server/log/Error-api-2023-05-18.log",
+            "hash": "d3cfce128a0c03f76100c0d4e6f29f6d2e6b46f2e346b9464a0a0efa7573b331"
+        }
+    ],
+    "hashType": "sha256"
+}

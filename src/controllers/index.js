@@ -1,0 +1,6 @@
+module.exports.userController = require('./user.controller')
+module.exports.stationController = require('./station.controller')
+module.exports.profileController = require('./profile.controller')
+module.exports.historyController = require('./history.controller')
+module.exports.ratingController = require('./rating.controller')
+module.exports.slotController = require('./slotController')
